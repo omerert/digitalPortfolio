@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <title>About Me</title>
+    <header>
+      <nav>
+	<ul>
+	  <li>    <a href="https://www.codermerlin.com/users/omer-erturk/Digital%20Portfolio/index.html">Home</a></li>
+	  <li>    <a href="https://www.codermerlin.com/users/omer-erturk/Digital%20Portfolio/aboutMe.html">   About Me </a></li>
+	  <li><a href="https://www.codermerlin.com/users/omer-erturk/Digital%20Portfolio/whyPort.html">   Clear Directory  </a>  </li><li> <a href = "https://www.codermerlin.com/users/omer-erturk/Digital%20Portfolio/morePort.html"> ISP </a></li>
+	</ul>
+      </nav><hr>
+      <h1>About Me</h1>
+      <hr>
+              </header>
+
+    <body>
+      <h1>About Me
+
+
+	<h2>Basic Info:</h2>
+
+	<h3>My name is Omer Erturk. I am 16 years old and in 11th grade. I am going to Allen High School. A few of my hobbies are playing soccer, playing video games, and riding my bike.</h3>
+	<h2>My Academic Skills:
+	  <h3>My high school weighted GPA is a 3.95 and in 11th grade I am enrolled in 4 AP classes while 1 in 10th grade. I am also planning on attending CSHS, NHS, MSA, OC3, and more.</h3>
+	</h2>
+	<h2>Contact Info:</h2><h3>School Email:omer.erturk@student.allenisd.org</h3>
+	  <h3>Phone Number:123-456-7890:)</h3>
+	  
+	
+      </h1>
+      
+	
+      
+
+
+
+
+
+
+
+  </head>
+  
+</html>
