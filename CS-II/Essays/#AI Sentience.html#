@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Sentience</title>
+    <style>
+
+
+
+
+      .header {
+          background-color: #F1F1F1;
+          text-align: center;
+          padding: 20px;
+          font-size: 50px;
+      }
+      .topnav {
+          overflow: hidden;
+          background-color: #333;
+          font-size: 30px;
+
+      }
+      .topnav a {
+          float: left;
+          display: block;
+          color: #f2f2f2;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+      }
+      body {
+          background-color: linen;
+          background-image: url('whitebackground.comglob');
+      }
+
+      h1 {
+
+          margin-left: 0px;
+      }
+      h2 {margin-top: 800px;}
+      p {
+
+          margin-right: 450px;
+          margin-left: 300px;
+      }
+    </style>
+
+    <div class="header">AI Sentience</div>
+    <div class="topnav">
+      <a href="index.html">Essays</a>
+      <a href="fingerprints.html">Fingerprints</a>
+      <a href="AI%20Sentience.html">AI Sentience</a>
+    </div>
+
+
+
+    
+    <p style="line-height:2; font-size:25px;">AI(Artificial Intelligence) is rapidly evolving and changing our world. From robots to auto-driving cars, AI is helping us with many tasks. In fact, AI will keep on growing the more our technologies advances. However, there is a popular debate that is going on; whether AI should have it own self-concious. While some believe that it can help people emotionally, others think that AI can go against humanity and kill us all. In my opinion, I believe that AI should have sentience but with many limitations from the government as well as the producers.
+</p><p style="line-height:2; font-size:25px;">
+      With AI having senticnce, it can help robots and technology to have its own thoughts and personality. With this, it can make robots problem solve without additional help. It can also detect many dangerous situations by itself and can possibly act faster than humans. Not only that but it can help humans personally. Robots would also be able to understand how humans are feeling through different signs and help us feel better. But with self cautiousness it can rebel against us humans and possibly extinction.
+</p><p style="line-height:2; font-size:25px;">
+      With this in mind, the government should not ban AI, but instead strictly limit their actions. Because AI sentience can help the world become a better place as well as a disaster, with the help of the government limiting it, it can only focus on the better.</p>
+
+
+</html>
+
