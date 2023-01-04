@@ -15,6 +15,7 @@
 	  font-weight: normal;
 	  
       }
+   
     </style>
   </head>
   <body style="background-color: #33ccff;">
@@ -46,7 +47,7 @@
     <h1>Conclusion:</h1><h2><img src="https://i.postimg.cc/gJMMQjHy/Screen-Shot-2022-08-18-at-12-28-12-PM.png" alt="image"></h2>
 
     <h1>What I learned last year:</h1>
-    <h2 style="margin-left: 500px; margin-right: 500px;">Last year in CS1, I learned the basics of Swift, as well as many important computer science terms like binary, hexadecimal, logical operators, and more.</h2> 
+    <h2 style="margin-left: 500px;    earned the basics of Swift, as well as many important computer science terms like binary, hexadecimal, logical operators, and more.</h2> 
       
   </body>
 </html>

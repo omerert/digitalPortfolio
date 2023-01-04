@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8">
+  
+     
+    <title>Decision Making</title>
+    <style>
+      
+      
+	  
+      
+      .header {
+	  background-color: #F1F1F1;
+	  text-align: center;
+	  padding: 20px;
+	  font-size: 50px;
+      }
+      .topnav {
+	  overflow: hidden;
+	  background-color: #333;
+	  font-size: 30px;
+
+      }
+      .topnav a {
+	  float: left;
+	  display: block;
+	  color: #f2f2f2;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+      }
+      body {
+	      background-color: linen;
+	      }
+      h1 {
+	  color: black;
+	  font-family: arial, sans-serif;
+	  font-size: 36px;
+	  font-weight: bold;
+	  margin-top: 0px;
+	  margin-bottom: 1px;
+      }
+      
+      h2 {
+	  margin-left: auto;
+	  margin-right: auto;
+	  font-size: 22px;
+	  font-family: Baskerville, "Goudy Old Style", Garamond, "Times New Roman", serif;
+	  line-height: 2;
+      }
+      .p {
+	      margin-right: auto;
+	      margin-left: auto;
+	      line-height:2;
+	      font-size:30px;
+	      max-width: 1500px;
+	      text-indent: 50px;
+      }
+      .mm{
+	  text-align: center;
+	  margin-right: auto;
+	  margin-left: auto; 
+      }
+      .apa-reference {
+	  padding-left: 36px;
+	  text-indent: -36px;
+	  
+      }
+    </style>
+    <div class="header">Decision Making</div>
+    <div class="topnav">
+      <a href="index.html">Essays</a>
+      <a href="fingerprints.html">Fingerprints</a>
+      <a href="AI%20Sentience.html">AI Sentience</a>
+      <a href="Decision%20Making.html">Decision Making</a>
+                  </div>   
+
+	   
+    <p style="text-align:center;font-size:30px;line-height:1.5;"><b>Decision Making</b> <br> Omer Erturk <br> Allen ISD STEAM Center <br> Advanced Computer Science II <br> Mr. Ben Yaakov <br> Due: Dec 9 by 11:59pm </p>
+
+    
+    <h1>Disjunction Bias</h1>
+    <h2>Disjunction events, or disjunction bias, are compound events where the elements of the event are not required to combine in order to create the outcome. It is like an And statement: if one of them is false, everything else is false. For example, for code to fail, only one line of code is required to break the whole program. The disjunction bias comes in when people underestimate the likelihood of the disjunctive compound event, or the odd one out, to occur. One example of this would be my grade book. If I have an assignment that I am too lazy to do, I might just put in very little effort and expect to get a good grade. However, I underestimate the likelihood of my teacher going over the assignment, resulting in me getting a very bad grade. This same concept can also be applied to my ISP: my group might think that all we need is just to have our ISP completed. But all it takes is one person to mess up their part, which would result in everyone else getting a bad grade. To avoid this, we should put in a good amount of effort to avoid getting a bad grade.
+    </h2>
+    <h1>Desire Bias</h1>
+    <h2>Desire bias is like Control bias but regards past experiences and relies on hopes of probability. People who rely on desire bias are usually gamblers, hoping that they will win the lottery or the slot machine. They ignore their past experiences of losses and other information that can actually help them succeed. One personal example is me before I take a quiz. I would hope that I would do well on the quiz or that the quiz will be easy just to not study. However, I would end up suffering by getting a bad grade. People only consider the small probability of them succeeding and not the bigger picture of reality. Desire bias can also be applied to our ISP. If all of us only put in minimum effort into the ISP, hoping that we will get a good grade, we are ignoring the bigger probability of us failing since we did not do well on the ISP. Never underestimate the bigger probability of past experiences and reality.To avoid this, we should really focus on the bigger probablility and the the smaller one. 
+    </h2>
+    <h1>Escalation</h1>
+    <h2>Escalation bias is a common bias that occurs when individuals continue to pursue a course of action even when it is no longer in their best interests to do so. This bias is often driven by the desire to avoid feeling like time, effort, or resources have been wasted, even if continuing to pursue the course of action is likely to result in greater losses in the long run. One example can be the tendency of an individual trying to continue to invest time, money, and effort into a failing project or venture, such as a business or a relationship. It can be seen when individuals continue to pour resources into a failing business, or where they persist in trying to fix a broken relationship even when it is clear that it is beyond repair. Either way, the individual is too scared to see reality and is trying to fuel what he/she thinks as their "success". One way this can apply to me is my old ISP. While I did end up joining another group's ISP, there is a chance I might've never made that move and instead tried to fuel my ISP even though it would've never turned our being successful. </h2>
+      <h1>Framing Bias</h1>
+      <h2>Framing bias is a cognitive bias that occurs when individuals are influenced by how information is presented to them. This bias is driven by the fact that individuals tend to process information in a way that is consistent with their existing beliefs and attitudes, and that how information is presented can influence how it is perceived and interpreted. One common example of framing bias is the tendency of individuals to be more likely to take a particular action if the potential rewards of that action are presented in a positive light, while being less likely to take that action if the potential rewards are presented in a negative light. For example, a person may be more likely to sign up for a new gym membership if the benefits of regular exercise are presented in a positive light, such as improved health and increased energy levels. However, if the potential risks of not exercising are presented in a negative light, such as an increased risk of heart disease or weight gain, the same person may be less likely to sign up for a gym membership. No one would want to see anything they want negatively; people would try to view things in a positive way instead. One way framing bias can relate to our ISP is that it is a lot of work but also rewards us with a lot of benefits. If we focus on working to earn the benefits rather than being dragged down by the amount of time it takes to complete it, it would be overall more enjoyable working on the ISP and would end up being better.
+      </h2>
+      <h1> Inconsistency</h1>
+      <h2>Inconsistency bias is a bias that occurs when individuals are influenced by inconsistencies or contradictions in information or behavior. This bias is driven by individuals who tend to perceive information or behavior that is consistent with their expectations or beliefs as more credible or trustworthy while perceiving information or behavior that is inconsistent with their expectations or beliefs as less credible or trustworthy. One common example of inconsistency bias is the tendency of individuals to be more influenced by information that confirms their existing beliefs or attitudes while being less influenced by information that challenges or contradicts those beliefs or attitudes. For example, for our ISP, we would support sources that support our ISP idea while we would ignore another opinion about our ISP. Doing this would weaken our ISP and our purpose since we only view and apply information that is supportive of our project. To avoid this, we should view other opinions, see what makes our ISP wrong, and then fix it. </h2>
+      <p>
+    <h1 style="margin-top: 400px;"> Citation:</h1>
+    <p class="apa-reference" style="font-size: 25px;">Monash University School of Information Management & Systems A Taxonomy of Decision Biases David Arnott Technical Report 1/98. (n.d.). CiteSeerX. Retrieved December 9, 2022, from https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c58cca5c8e8774eb5b17ac3159914d1f1357a014
+      </p>
+
+
+</html>
