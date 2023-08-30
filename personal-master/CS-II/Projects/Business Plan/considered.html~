@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <title>Considered</title>
+
+  <meta charset="utf-8">
+
+  <style>
+    .header {
+	background-color: #F1F1F1;
+	text-align: center;
+	padding: 20px;
+	font-size: 50px;
+    }
+    .topnav {
+	overflow: hidden;
+	background-color: #333;
+	font-size: 30px;
+
+    }
+    .topnav a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: right;
+	padding: 14px 16px;
+	text-decoration: none;
+    }
+    h1{
+	font-size: 35px;
+	text-align:left;
+	color: skyblue;
+    }
+    h2{
+	font-size: 25px;
+	text-align: left;
+    }
+    h3{
+	font-size: 20px;
+	text-indent: 50px;
+	text-align:left;
+	max-width: 800px;
+	font-family: 'Courier New', monospace;
+    }                
+    ul {
+	display: table;
+	margin: 0 auto;
+    }
+    body{
+	display: grid;
+	grid-template-rows: 1fr 50px;
+	background: linear-gradient(to bottom, #7927b2, #fb3182);
+	justify-content: center;
+	;
+    }
+  </style>
+  
+  <div class="header">Considered Proposal</div>
+  <div class="topnav">
+    <a href="https://codermerlin.com/users/omer-erturk/Digital%20Portfolio/index.html">Home</a>
+    <a href="index.html">Business Plan</a>
+    <a href="considered.html"> Considered Proposals</a>
+    <a href="https://codermerlin.com/users/omer-erturk/Digital%20Portfolio/CS-II/Projects/index.html">Back</a>
+  </div>
+  <h1>
+   The Cafe Project
+  </h1>
+  <h2>Concept:</h2>
+  <h3>The Cafe Project ultimately serves to develop a technology-based system/app in which students can pre-order lunches securely, then pick up their desired food at the location which they select. This way, lunch lines would move much faster: only id   entity would need to be provided at the physical location, then food would be almost instantly received.</h3>
+  <h2> <a href="https://www.codermerlin.com/users/andrewm-lin/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html"> The Cafe Project </a></h2>
+  
+  <h2>Decision:</h2>
+  <h3 class="h3">We decided not to join this group for two reasons: unrealistic scenario and technology issues. I belive that this idea is unrealistic in that if everyone preorders  their food, there will still be a line. It will take around the same time or if not longer to buy your food directly from the lunchline than to preorder, show your order to the worker, and get your food. Not only that but there are hundreds of students buying lunch at the same time, meaning that no matter what method is used there wil still be a line. This idea will also suffer technological issues. There will be hundreds of students preordering their food at the same time, which could result in servers to be slow or even crash. Not only that but the workers at the lunchline would need to spend time to learn how to operate the project. I feel that the way the lunch lines operate right now is the most effective method. </h3>
+  <h1>Smartshop</h1>
+  <h2>Concept:</h2>
+  <h3>Smartshop is a filtering system for people to be able to purchase clothes depending on their physiological needs, personal preferences, and current trends. This filtering system would be hosted on a public website or an app.</h3>
+  <h2> <a href="https://www.codermerlin.com/users/avanish-jeendru/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html"> Smartshop </a> </h2>
+  <h2>Decision:</h2>
+  <h3> We decidced not to join this group for lack of innovation and simplistic idea. Many shopping websites such as Amazon, Walmart, and Nike have a filtered system that does the same or even more than this concept. Not only that but these websites have it as just a small feature for their websites. This is a very small project to be a business idea. I also believe that it is too simple in that there are only a few options to filter from. </h3>
+
+  <h1> The City Planner </h1>
+  <h2> Concept: </h2>
+  <h3>Our app, the City Planner, is a community-organization service. It has community leaders create event planning sheets. It was created mostly due to the lack of togetherness that most cities and towns suffer from. Users can filter and select city events that want to atttend, and get notified when it is about to begin. </h3>
+  <h2> <a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html"> The City Planner</a> </h2>
+  <h2> Decision: </h2>
+  <h3> We decided not to choose this idea due to lack of location and expensive to run. While this business idea is solid when it comes to bringing people together, it lacks widespread to other locations. Since there are community leaders for each city, it would be near immposible to have them for each city. Not only that but this would be very expensive to run. Again, having community leaders for each city and town would be very costly yet alone for each genre of events. It would also be expensive in finding each and every event in each and every city and town. Overall, having community leaders for each city and town and even the lack of interest might make this business idea unsuccessful.</h3>
+      
+  <h1> Code Converter</h1>
+  <h2> Concept: </h2>
+  <h3> There are many different coding languages in the world, each with different syntax and speed. Our product will create an app that converts slower and easier languages to faster and harder languages, which can be time consuming by hand. The code converter will use a file type or txt file of the code and convert the syntax from one language to another. For our first languages, we will be trying to convert Swift to C++.</h3>
+  <h2> <a href="https://www.codermerlin.com/users/evan-ye/Digital%20Portfolio/CS-III/Projects/Business%20Plan/considered.html">  Code Converter</a></h2>
+  <h2> Decision: </h2>
+  <h3> We decided not to choose this business idea for pre-existing applications and lack of content. While code conversion is a very useful tool for programmers, this idea existed a while back. In fact, code converters line Code Beautify already does this job but with many other languages line Python to C++. Not only that but I feel that this business idea does lack in terms of content. I don't feel confident in a business idea that only converts from Swift to C++. Although making a code convertor is a difficult job, due to pre-existing applications and lack of content, I don't see the success in this business proposal. </h3>
+
+  <h1> Automated Plantation </h1>
+  <h2> Concept: </h2>
+  <h3> The idea for my ISP is an automated garden, taking multiple environmental factors into account such as sunlight, humidity, etc. and automatically adjusting to always provide and optimal environment for the plants to grow. A Raspberry Pi will be used as the main computer in our ISP, using weather APIs and various sensors to determine the environmental conditions of the garden. The Raspberry Pi will then adjust (e.g., more artifical light in the absence of sunlight, more water pumped into the plants in absence of humidity, etc.) and allow for the plants to thrive.</h3>
+  <h2> <a href="https://www.codermerlin.com/users/adheesh-katru/Digital%20Portfolio/CS-III/Projects/Business%20Plan/index.html"> </a> Automated Garden </h2>
+  <h2> Decision: </h2>
+        <h3>We chose not to join this group since hard to execute and high chance of failure. Having a robot taking care of a plant properly is very difficult to execute. The robot has to make sure to not harm it in anyway and to run 24/7 just to care for the plant. Not only that but there is also a chance of the Raspberry suddenly not working is also high. Heavy rain, hailing, tornados, and even hurricanes are just some factors that could completely wipe out the circut boards and mechanical parts of the automated farming. There is also rusting and wildlife that could interfere with the automated farm that could result it to stop working or even not working proeprly. </h3> 
+</html>
+
