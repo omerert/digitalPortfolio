@@ -1,7 +1,6 @@
 .notepad{
     background-color: azure;
     height: auto;
-    width: 80%;
-    border: 2px black;
-    border-radius: 5%;
+    width: auto;
+    border-radius: 10px;
 }
