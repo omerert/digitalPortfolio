@@ -9,15 +9,10 @@
     padding: 20px;
 	       
 }
-h2 {
-    font-family: 'Quicksand', serif;
-    font-size: 38px;
-    font-weight: bold;
-    text-align: center;
-}
 h3{
     font-family: 'Quicksand', serif;
     font-size: 26px;
     font-weight: 5;
-    line-height: 60px;
+    spacing: double;
+
 }

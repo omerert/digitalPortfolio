@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <meta charset="UTF-8">
-  
+  <link rel="stylesheet" href="../../styles.css">
      
     <title>Decision Making</title>
     <style>
@@ -78,7 +78,9 @@
 	   
     <p style="text-align:center;font-size:30px;line-height:1.5;"><b>Decision Making</b> <br> Omer Erturk <br> Allen ISD STEAM Center <br> Advanced Computer Science II <br> Mr. Ben Yaakov <br> Due: Dec 9 by 11:59pm </p>
 
-    
+    <h1>Introduction</h1>
+    <h2>Many interpret "bias" in a negative way. They can't be blamed for; from news channels to political decisions, bias negatively affects our society. However, not all biases are bad. Decision biases are often positive in terms of humans possessing information. The following are some of the biases and how it affects our ISP, ShelfSpace.
+    </h2>
     <h1>Disjunction Bias</h1>
     <h2>Disjunction events, or disjunction bias, are compound events where the elements of the event are not required to combine in order to create the outcome. It is like an And statement: if one of them is false, everything else is false. For example, for code to fail, only one line of code is required to break the whole program. The disjunction bias comes in when people underestimate the likelihood of the disjunctive compound event, or the odd one out, to occur. One example of this would be my grade book. If I have an assignment that I am too lazy to do, I might just put in very little effort and expect to get a good grade. However, I underestimate the likelihood of my teacher going over the assignment, resulting in me getting a very bad grade. This same concept can also be applied to my ISP: my group might think that all we need is just to have our ISP completed. But all it takes is one person to mess up their part, which would result in everyone else getting a bad grade. To avoid this, we should put in a good amount of effort to avoid getting a bad grade.
     </h2>
