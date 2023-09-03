@@ -45,14 +45,58 @@
       
     <p style="text-align:center;font-size:30px;line-height:1.5;"><b>Advanced Sort</b> <br> Omer Erturk <br> Allen ISD STEAM Center <br> Advanced Computer Science III <br> Mr. Ben Yaakov <br> Due: Sep 1 by 11:59pm </p>
     <br>
-	
-    <h2> Merge Sort </h2>
-    <h3 >A sorting algorithm that implements divide-and-conquer approach using recursion. The algorithm begins by constantly dividing the unsorted array until individual elements are isolated, which are considered sorted. The individual elements are then merged into pairs that are sorted into a subarray. This process is repeated until the sorted subarrays merge into the fully sorted array. Dividing into smaller parts and then merging into bigger subarrays maintains the sorted order, guaranteeing the final sorted array. Merge Sort has a time complexity of of n * log(n), making it quicker than n squared sorting algorithms like Bubble Sort and Selection Sort. As efficient as it may be in terms of time complexity, Merge Sort is not efficient in terms of space complexity, which is O(n).</h3>
-    <h2> Quick Sort </h2>
-    <h3></h3>
-    <h2> Heap Sort </h2>
-    <h3> </h3>
+    <hr>
+    <h1> Merge Sort </h1>
+    <h3>A sorting algorithm that implements a divide-and-conquer approach using recursion. The algorithm begins by constantly dividing the unsorted array until individual elements are isolated, which are considered sorted. The individual elements are then merged into pairs that are sorted into a subarray. This process is repeated until the sorted subarrays merge into the fully sorted array. Dividing into smaller parts and merging into bigger subarrays maintains the sorted order, guaranteeing the final sorted array. Merge Sort has a time complexity of n * log(n), making it quicker than n-squared sorting algorithms like Bubble Sort and Selection Sort. As efficient as it may be in terms of time complexity, Merge Sort is not efficient in terms of space complexity, which is O(n).
+</h3> 
+    <hr>
+    <h1> Quick Sort </h1>
+    <h3>A sorting algorithm that, just like Merge Sort, uses a divide and conquer method using recursion. However, unlike Merge Sort, QuickSort utilizes a pivot point and partition algorithm.</h3>
+    <h2>Pivot</h2>
+    <h3>A pivot point is a point of comparison that is compared between every other element in an array. Elements less than the pivot will end up left of the pivot and elements greater than the pivot end up right of the pivot. There are a few ways to choose the index of a pivot point, but this explanation will have the pivot point on the rightmost of the array.
+</h3>
+    <h2>Partition</h2>
+    <h3>Once a pivot is determined, the array is then partitioned, or divided, into two subarrays: one with elements less than the pivot and one with elements greater than the pivot. The partition is done by utilizing the two pointers method: one on the left end of the array and one on the second to the right end of the array. If the element on the left pointer is greater than the pivot and the element on the right pointer is smaller than the pivot, the left and right elements are swapped. This process is repeated until the left and right pointers are on at the middle of the array: all elements on the left are smaller than the pivot and all elements on the right are bigger than the pivot. The pivot is then swapped into the middle of the array.  </h3>
+    <h2>Recursion</h2>
+    <h3>Although the pivot is at its correct position, the two subarrays are not sorted. Therefore, each subarray goes through the same technique as the main array; determining a pivot point and implementing the partition algorithm. The recursion continues until the subarray reaches a count of zero or one element. By doing this, each of the subarrays will be properly sorted. After this step, the recursion unwinds and the two initial subarrays are sorted to their respective positions. </h3>
+    <hr>
+    <h1> Heap Sort </h1>
+    
+    <h3>A sorting algorithm that uses a comparison-based method and is structured through a binary tree. The algorithm first finds the max-heap, whih is abinary tree where each of the values is greater than or equal to the values of the previous branch; the larges element is at the root. Then the algorithm finds the maximum element and sends it to the root. With the greatest value at the top, the tree is then reduces in size. This process is repeated until the array is sorted. </h3>
+    <hr>
+    <h1> Time and Memory Complexity </h1>
+      <table>
+        <tr style="background-color: white;">
+            <th>Algorithm</th>
+	    <th>Time Complexity (Best)</th> 
+	    <th>Time Complexity (Average)</th>
+            <th>Time Complexity (Worst Case)</th>
+            <th>Memory Complexity (Worst)</th>
+        </tr>
+        <tr>
+          <td>Merge Sort</td>
+	  <td>O(n log n)
+          <td>O(n log n)</td>
+          <td>O(n log n)</td>
+          <td>O(n)</td>
+        </tr>
+        <tr>
+          <td>QuickSort</td>
+          <td>O(n log n)</td>   
+	  <td>O(n log n)</td>
+          <td>O(n^2)</td>
+          <td>O(log n)</td>
+        </tr>
+        <tr>
+          <td>HeapSort</td>
+	  <td>O(n log n)</td>
+	  <td>O(n log n)</td>
+          <td>O(n log n)</td>
+          <td>O(1)</td>
+        </tr>
+    </table>
   </div>
+
   
   </body>
 </html> 
