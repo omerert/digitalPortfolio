@@ -29,7 +29,7 @@
 	</div>
       </div>
       <div class="dropdown">
-	<button class="dropbtn" onclick="location.href='CS-III/index.html'">CS-III</button>
+	<button class="dropbtn">CS-III</button>
 	<div class="dropdown-content">
 	  <a  href="../Essays/index.html">Essays</a>
 	  <a class="active" href="index.html">Projects</a>
@@ -62,7 +62,13 @@
     <hr>
     <h1> Heap Sort </h1>
     
-    <h3>A sorting algorithm that uses a comparison-based method and is structured through a binary tree. The algorithm first finds the max-heap, whih is abinary tree where each of the values is greater than or equal to the values of the previous branch; the larges element is at the root. Then the algorithm finds the maximum element and sends it to the root. With the greatest value at the top, the tree is then reduces in size. This process is repeated until the array is sorted. </h3>
+    <h3>A sorting algorithm that uses a comparison-based algorithm on a heap, or a binary tree. Similar to Selection Sort, HeapSort looks for the largest element and appends it to a sorted array; this is done by scanning through the unsorted regions in a heap. </h3>
+    <h2>Max Heap </h2>
+    <h3>A max heap is a binary tree where the parent values are greater than the child values; the parent values are at the top of the tree (root) while the child values are at the bottom of the tree. 
+</h3>
+    <h2>Heapify</h2>
+    <h3>the algorithm that maintains the Max Heap concept and assumes part of the heap is already sorted. This is done by comparing the values of a node with its children (if any) and swaps until the max values are at the top. With the maximum value at the top, it is then swapped with the last index the the heap and is removed from the heap since it is at its correct position. This process continues until there is no more heap and all of the values are at their correct position, leaving us with a sorted array.
+</h3>
     <hr>
     <h1> Time and Memory Complexity </h1>
       <table>
