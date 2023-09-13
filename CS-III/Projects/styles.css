@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@100&family=Quicksand&display=swap');
-.notepad {
+.notepad{
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 50%;
     max-width: 100%;
     background-color: #fff;
     border: 1px solid #ddd;
@@ -45,12 +45,8 @@ th, td {
 th {
     background-color: #f2f2f2;
 }
- /*
-tr:nth-child(even) {
-    background-color: #f2f2f2;
-}
-
-tr:nth-child(odd) {
-    background-color: white;
-}
-*/
+@media all and (orientation:portrait) {
+    .notepad{
+	wdith: 80%
+    }
+ }
